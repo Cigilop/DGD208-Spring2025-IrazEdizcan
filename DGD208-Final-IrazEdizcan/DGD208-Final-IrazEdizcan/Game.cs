@@ -88,13 +88,13 @@ namespace DGD208_Final_IrazEdizcan
                 switch (input)
                 {
                     case "1":
-                        pet = new Pet("Dog");
+                        pet = new Dog();
                         break;
                     case "2":
-                        pet = new Pet("Cat");
+                        pet = new Cat();
                         break;
                     case "3":
-                        pet = new Pet("Parrot");
+                        pet = new Parrot();
                         break;
                     default:
                         Console.WriteLine("Invalid input. Please select again.\n");
@@ -116,9 +116,37 @@ namespace DGD208_Final_IrazEdizcan
 
         private void ShowPetStats()
         {
-            Console.WriteLine("Pet stats are not yet implemented. Press Enter to return.");
+            Console.Clear();
+            Console.WriteLine("=== Pet Personalities and Stats ===\n");
+
+            Console.WriteLine("Dog:");
+            Console.WriteLine("Personality: Loyal and happy.");
+            Console.WriteLine("Hunger: 100");
+            Console.WriteLine("Happiness: 120");
+            Console.WriteLine("Energy: 110");
+            Console.WriteLine("Hygiene: 90");
+            Console.WriteLine();
+
+            Console.WriteLine("Cat:");
+            Console.WriteLine("Personality: Grumpy but secretly loves you.");
+            Console.WriteLine("Hunger: 100");
+            Console.WriteLine("Happiness: 80");
+            Console.WriteLine("Energy: 90");
+            Console.WriteLine("Hygiene: 90");
+            Console.WriteLine();
+
+            Console.WriteLine("Parrot:");
+            Console.WriteLine("Personality: Weird and talkative.");
+            Console.WriteLine("Hunger: 70");
+            Console.WriteLine("Happiness: 100");
+            Console.WriteLine("Energy: 100");
+            Console.WriteLine("Hygiene: 80");
+            Console.WriteLine();
+
+            Console.WriteLine("Press Enter to return to the main menu.");
             Console.ReadLine();
         }
+
 
         private void ShowInventory()
         {
