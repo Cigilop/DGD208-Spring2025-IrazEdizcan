@@ -1,0 +1,14 @@
+C:\Users\Iraz\source\repos\DGD208-Final-IrazEdizcan\DGD208-Final-IrazEdizcan\obj\Debug\net8.0\DGD208-Final-IrazEdizcan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iraz\source\repos\DGD208-Final-IrazEdizcan\DGD208-Final-IrazEdizcan\obj\Debug\net8.0\DGD208-Final-IrazEdizcan.AssemblyInfoInputs.cache
+C:\Users\Iraz\source\repos\DGD208-Final-IrazEdizcan\DGD208-Final-IrazEdizcan\obj\Debug\net8.0\DGD208-Final-IrazEdizcan.AssemblyInfo.cs
+C:\Users\Iraz\source\repos\DGD208-Final-IrazEdizcan\DGD208-Final-IrazEdizcan\obj\Debug\net8.0\DGD208-Final-IrazEdizcan.csproj.CoreCompileInputs.cache
+C:\Users\Iraz\source\repos\DGD208-Final-IrazEdizcan\DGD208-Final-IrazEdizcan\bin\Debug\net8.0\DGD208-Final-IrazEdizcan.exe
+C:\Users\Iraz\source\repos\DGD208-Final-IrazEdizcan\DGD208-Final-IrazEdizcan\bin\Debug\net8.0\DGD208-Final-IrazEdizcan.deps.json
+C:\Users\Iraz\source\repos\DGD208-Final-IrazEdizcan\DGD208-Final-IrazEdizcan\bin\Debug\net8.0\DGD208-Final-IrazEdizcan.runtimeconfig.json
+C:\Users\Iraz\source\repos\DGD208-Final-IrazEdizcan\DGD208-Final-IrazEdizcan\bin\Debug\net8.0\DGD208-Final-IrazEdizcan.dll
+C:\Users\Iraz\source\repos\DGD208-Final-IrazEdizcan\DGD208-Final-IrazEdizcan\bin\Debug\net8.0\DGD208-Final-IrazEdizcan.pdb
+C:\Users\Iraz\source\repos\DGD208-Final-IrazEdizcan\DGD208-Final-IrazEdizcan\obj\Debug\net8.0\DGD208-Final-IrazEdizcan.dll
+C:\Users\Iraz\source\repos\DGD208-Final-IrazEdizcan\DGD208-Final-IrazEdizcan\obj\Debug\net8.0\refint\DGD208-Final-IrazEdizcan.dll
+C:\Users\Iraz\source\repos\DGD208-Final-IrazEdizcan\DGD208-Final-IrazEdizcan\obj\Debug\net8.0\DGD208-Final-IrazEdizcan.pdb
+C:\Users\Iraz\source\repos\DGD208-Final-IrazEdizcan\DGD208-Final-IrazEdizcan\obj\Debug\net8.0\DGD208-Final-IrazEdizcan.genruntimeconfig.cache
+C:\Users\Iraz\source\repos\DGD208-Final-IrazEdizcan\DGD208-Final-IrazEdizcan\obj\Debug\net8.0\ref\DGD208-Final-IrazEdizcan.dll
